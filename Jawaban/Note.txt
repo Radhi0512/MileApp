@@ -1,0 +1,2 @@
+Test Case API : Dijalankan dengan 'Web Service'
+Test Case UI : Dijalankan dengan 'Chrome'
